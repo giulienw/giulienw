@@ -2,15 +2,9 @@
 
 Software developer focused on Java, TypeScript, and Python. I like building real-time systems, tooling, and clean APIs.
 
-## Featured work
-- Hytale Voice - local voice relay for Hytale with a built-in web UI (Java)
-  https://github.com/giulienw/hytale-voice
-- AI Connect CSP Solver - starter layout for a CSP solver for logic grid puzzles (Python)
-  https://github.com/giulienw/ai-connect-csp-solver
-
 ## What I'm exploring
 - Real-time voice workflows and web-based onboarding
-- Constraint solving and puzzle automation
+- Developer tooling and automation
 - Clear, maintainable project scaffolds
 
 ## Toolbox
